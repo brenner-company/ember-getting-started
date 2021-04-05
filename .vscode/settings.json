@@ -1,0 +1,15 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[handlebars]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "prettier.documentSelectors": ["**/*.hbs"],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#073336",
+    "titleBar.activeBackground": "#0A474C",
+    "titleBar.activeForeground": "#F0FCFD"
+  }
+}
